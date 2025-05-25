@@ -1,3 +1,3 @@
 fn main() {
-    println!("Daniel M!");
+    println!("Daniel M!, listo para mergear.");
 }
